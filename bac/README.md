@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I started experimenting with c++ a day ago and it was intersting idea to try how would a desktop app look like in C++ and that how I ended up trying things with Qt which was really fun to explore and catching 
+I started experimenting with c++ a day ago and it was intersting idea to try how would a desktop app look like in C++ and that's how I ended up trying things with Qt which was really fun to explore and catchy
 
 ## About the App
 
